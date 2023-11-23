@@ -1,4 +1,4 @@
-package Exercise42;
+package Exercise45;
 
 public class Texts extends AGallery{
 	private int numberOfLines;
@@ -13,7 +13,4 @@ public class Texts extends AGallery{
 		super(nameForSourceFile, sizes);
 		this.numberOfLines = numberOfLines;
 	}
-
 }
-	
-

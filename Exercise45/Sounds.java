@@ -1,4 +1,4 @@
-package Exercise42;
+package Exercise45;
 
 public class Sounds extends AGallery {
 	private int playingTime;

@@ -1,4 +1,5 @@
-package Exercise42;
+package Exercise45;
+
 
 public class Images extends AGallery {
 	private int width;
